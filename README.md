@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Primeor%20E-Commerce%20Insights%20Dashboard%20%281%29.png" width="100%" alt="Primeor E-Commerce Power BI Dashboard">
+</p>
 # E-Commerce Sales & Business Performance Analysis | Primeor Solutions Internship Project
 ### An End-to-End Data Analytics Project | Primeor Solutions Internship 
 
