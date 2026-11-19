@@ -185,4 +185,4 @@ It strengthened my ability to work across the data analytics lifecycle, from raw
 **Emmanuel Chimaobi Nebo**  
 Entry-Level Data Analyst | Business Intelligence | Data Visualisation
 
-I am an aspiring Data Analyst with practical experience in Microsoft Excel, SQL, Power BI, Power Query, and DAX. I enjoy transforming raw data into meaningful insights, developing interactive dashboards, and communicating analytical findings to support better business decisions.
+Data Analyst with practical experience in Microsoft Excel, SQL, Power BI, Power Query, and DAX. I enjoy transforming raw data into meaningful insights, developing interactive dashboards, and communicating analytical findings to support better business decisions.
